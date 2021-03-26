@@ -1,0 +1,95 @@
+a{
+	color:#992575;
+}
+p {
+	color:#333;
+}
+.table img {
+	max-height: 100px;
+}
+.list_price li{
+	list-style: none;
+padding: 5px 20px;
+}
+.myprice {
+	font-weight: bold;
+	font-size: 110%;
+	padding: 5px;
+}
+.dowland_imgs img{
+	max-height: 200px;
+	margin-bottom: 20px;
+}
+.site-index h1 {
+	color:#b22c88;
+	text-align: center;
+	padding: 100px 0;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #992575;
+    border-color: #992575;
+}
+.btn-primary.active ,.btn-primary:active, .btn-primary:hover, .btn:focus, .btn.focus{
+    color: #fff;
+    background-color: #b22c88;
+    border-color: #992575;
+}
+.btn-link {
+    font-weight: normal;
+    color: #992575;
+    border-radius: 0;
+}
+.navbar {
+    position: relative;
+    min-height: 30px;
+    margin-bottom: 0px;
+    border: 1px solid transparent;
+}
+#column-left {
+    width: 235px;
+    height: 100%;
+    background-color: #515151;
+    position: absolute;
+    top: 0px;
+	/* margin-top: 52px;*/
+    padding-top: 50px;
+    z-index: 10;
+    transition: all 0.3s;
+}
+#column-left h4 {
+	 color: #C4C4C4;
+    padding-left: 25px ;
+	 margin-bottom: 25px;
+}
+
+.wrap , .site-login{
+	margin-left: 235px;
+}
+#menu {
+    margin-bottom: 25px;
+}
+
+
+#menu, #menu ul, #menu li {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+#menu li a {
+    text-decoration: none;
+    display: block;
+    padding: 10px;
+    cursor: pointer;
+    
+}
+#menu > li > a {
+    color: #C4C4C4;
+    font-size: 14px;
+    padding-left: 23px;
+    border-bottom: 1px solid #585858;
+}
+#menu li a:hover , #menu li a:active{
+   color: #fff;
+}
