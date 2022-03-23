@@ -1,3 +1,2 @@
-Сайт на Yii2
+Yii2 site.
 
-http://ch68793.tmweb.ru
